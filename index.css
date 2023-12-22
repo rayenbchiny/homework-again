@@ -1,0 +1,102 @@
+css h1 {
+    color: #48267B;
+    margin-top: 10%; 
+    background-color: #9dc0ac ;
+    border: 10px solid rgb(0, 174, 255);
+    position: relative ;
+    left: 110px;
+    width: 900px;
+    text-align: center;
+    
+     
+}
+
+li {
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 900 ;
+    color: #352355;
+    margin-left: 25px ;
+
+}
+button {
+    background-color: #352355;
+    border-radius: 20px;
+    padding-inline-start: 10px;
+
+
+}
+
+.a{
+    color: beige ;
+    text-decoration: dashed;
+    font-size: 25px;
+
+}
+
+.paragraphe {
+ font-style: italic;
+ word-spacing: 10px;
+ font-size: larger;
+background-color: antiquewhite;
+color: rgb(97, 3, 3);
+height: 150px;
+padding-left: 10px;
+overflow: auto;
+opacity: 1;
+width: 100%;
+}
+.sp{
+    padding-left: 30px;
+}
+
+form{
+    position: relative;
+     left: 60%;
+     width: 350px;
+     background-color: rgb(219, 152, 152);
+     text-align: center;
+     padding-top: 2%; 
+     padding-bottom: 2%;
+     font-size: 20px;
+     
+     
+     
+}
+input{
+    background-color: rgb(234, 236, 231);
+    width: 150px;
+    
+}
+
+.video{
+    position: relative; text-align: center;
+
+}
+
+.submit{
+    background-color: rgb(216, 205, 255);
+
+}
+.submit:hover{
+    background-color: red;
+    cursor: pointer;
+}
+#contact {
+    background-color: black;
+    margin-top: 50px;
+    height: 50px;
+    color: aliceblue;
+}
+.p{
+    text-align:center;
+ font-size: larger;
+color: rgb(226, 9, 9);
+height: 150px;
+padding-left: 10px;
+overflow: auto;
+width: 120%;
+}
+image{
+    padding-right: 200;
+}
